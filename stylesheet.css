@@ -1,0 +1,39 @@
+body{
+    color: #1C39BB;
+  }
+  h1{
+    color: #c0c0c0;
+    background-color: #1C39BB;
+    width: 350px;
+  }
+  img{
+    margin-left: 340px
+  }
+  main > p{
+    font-family: Copperplate;
+    font-size: 20px;
+  }
+  table, td, th{
+    border: solid;
+    border-color: blueviolet;
+    
+  }
+  td{
+    padding: 13px;
+  }
+  body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwhf5QhDQipW1jsMT1wjY4Xr2rwJg4wLxenw&usqp=CAU")
+  }
+  th{
+    font-family: Papyrus;
+    font-size: 17px;
+  }
+  ul, ol{
+    font-size: 17px
+  }
+  ul > h3{
+    text-decoration: underline
+  }
+  ol > h3{
+    text-decoration: underline
+  }
